@@ -1,5 +1,7 @@
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
+#include "sdk_files/synthbase.h"
+#include "sdk_files/synthfunctions.h"
 
 #define JucePlugin_Name "FirstSynth"
 
